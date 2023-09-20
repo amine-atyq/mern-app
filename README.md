@@ -9,7 +9,7 @@ MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and M
 
 **Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!**
 
-## Table View
+## Table View   c
 
 You will find all the CRUD operations here. Create, Read, Update and Delete
 
